@@ -1,0 +1,23 @@
+body{
+	background: cadetblue;
+	text-align: center;
+}
+
+h1{
+	font-size: 60px;
+	color: white;
+}
+
+select{
+	padding:4px 0px 4px 0px;
+	text-align: center;
+}
+
+button{
+	cursor: pointer;
+	padding: 10px 15px;
+	border-radius:5px ;
+	color: rgb(49, 44, 44);
+	border: none;
+	margin-top: 1rem;
+}
